@@ -35,7 +35,12 @@
   <a href="https://www.linkedin.com/in/iago-silva-0ab8ab22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+##
 
+# Meus Distintivos da Tryhackme:
+
+![4090686fe482ab3e86cd99773bf78cc7](https://user-images.githubusercontent.com/92806149/191015460-1d21dec4-89ca-42a0-b911-975d9cbd02cc.png)
 
 
 

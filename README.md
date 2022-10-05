@@ -40,7 +40,9 @@
 ##
 ##
 
-# Meus Distintivos da Tryhackme:
+# Tryhackme: https://tryhackme.com/p/iago.silva19
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/iago.silva19.png" alt="TryHackMe">
 
 ![4090686fe482ab3e86cd99773bf78cc7](https://user-images.githubusercontent.com/92806149/191015460-1d21dec4-89ca-42a0-b911-975d9cbd02cc.png)
 

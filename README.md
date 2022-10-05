@@ -16,7 +16,7 @@
 
 
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
 <img align="center" alt="Iago-Terminal" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/console.png">
   <img align="center" alt="Iago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,7 +40,7 @@
 ##
 ##
 
-# Tryhackme: https://tryhackme.com/p/iago.silva19
+# Tryhackme: <a href= "https://tryhackme.com/p/iago.silva19"> Iago-Linux<a />
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/iago.silva19.png" alt="TryHackMe">
 
